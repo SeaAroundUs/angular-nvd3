@@ -1,0 +1,55 @@
+{
+  "name": "angular-nvd3",
+  "version": "0.1.0",
+  "description": "An AngularJS directive for NVD3.js reusable charting library (based on D3.js)",
+  "main": [
+    "dist/angular-nvd3.min.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "d3",
+    "d3-",
+    "nvd3",
+    "nvd3-",
+    "angular",
+    "angular-",
+    "angular-nvd3",
+    "nvd3-angular",
+    "directives",
+    "visualization",
+    "charts",
+    "svg"
+  ],
+  "authors": [
+    "Konstantin Skipor"
+  ],
+  "homepage": "http://krispo.github.io/angular-nvd3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krispo/angular-nvd3.git"
+  },
+  "dependencies": {
+    "angular": "~1.2",
+    "d3": "~3.4",
+    "nvd3-community": "~1.7.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests",
+    "lib",
+    "examples"
+  ],
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "2f99a73e9d437e398898b4ef9e810d5bdc20f604"
+  },
+  "_source": "https://github.com/klangfarbe/angular-nvd3.git",
+  "_target": "~0.1.0",
+  "_originalSource": "https://github.com/klangfarbe/angular-nvd3.git"
+}
